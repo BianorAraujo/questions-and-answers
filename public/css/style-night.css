@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    background-color: black;
+    color: white;
+    border-color: gray;
+}
+
+.form-control{
+    background-color: black;
+    color: white;
+}
+
+.form-control:hover{
+    background-color: black;
+    color: white;   
+}
+
+.form-control:focus{
+    background-color: black;
+    color: white;  
+}
