@@ -18,4 +18,4 @@ A simple demonstration of a questions and answers application.
 
 ### Credits
 
-This app was created based on Guia do Programador's course. [Node.js - Training](https://www.udemy.com/course/formacao-nodejs/).
+This app was created based on Guia do Programador's course. [Node.js Training](https://www.udemy.com/course/formacao-nodejs/).
